@@ -3,6 +3,8 @@
 
 본 실험에서는 555 타이머와 R-C 충방전 원리를 이용하여 원하는 주파수의 펄스를 만들고 이를 이용하여 스피커를 구동하는 실험을 실시한다. 아래 링크를 클릭하여 실험 데모를 확인한다.
 
+https://www.dropbox.com/s/t8atqsenduk12a9/ezgif.com-rotate.mp4
+
 <video width="100%" controls="true" poster="" >
 <source src="https://www.dropbox.com/s/t8atqsenduk12a9/ezgif.com-rotate.mp4?raw=1" type="video/mp4" />
 </video>
