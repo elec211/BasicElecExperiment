@@ -1,9 +1,9 @@
 
 # 심화실험3: 피아노 (소리 합성)
 
-본 실험에서는 555 타이머와 R-C 충방전 원리를 이용하여 원하는 주파수의 펄스를 만들고 이를 이용하여 스피커를 구동하는 실험을 실시한다.
+본 실험에서는 555 타이머와 R-C 충방전 원리를 이용하여 원하는 주파수의 펄스를 만들고 이를 이용하여 스피커를 구동하는 실험을 실시한다. 아래 링크를 클릭하여 실험 데모를 확인한다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4CYxI7kM1pA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/4CYxI7kM1pA
 
 ## 실험목표
 1. R-C회로에서 시정수의 개념을 다시 한번 복습하고 충방전 하는데 걸리는 시간을 계산해본다.
