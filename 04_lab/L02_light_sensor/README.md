@@ -7,7 +7,7 @@
 
 완성된 회로의 동작화면은 아래와 같다. 외부 밝기를 감지하여 LED가 On/Off됨을 확인하라. 
 
-![07_동작화면](D:/PROJECT/1_GIT/elec211/BasicElecExperiment/trunk/04_lab/L02_light_sensor/images/07_%EB%8F%99%EC%9E%91%ED%99%94%EB%A9%B4.gif)
+![07_동작화면](./images/07_동작화면.gif)
 
 ## 실험목표
 1. **주변 밝기에 변화에 대한 광센서의 전기적 출력 특성 관찰**
