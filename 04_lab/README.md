@@ -3,8 +3,8 @@
 본 페이지는 기초전자실험 8개를 수행한 뒤 각 분반별로 지도교수님께서 선택적으로 실험을 진행할 수 있도록 준비된 Lab자료이다. 
 
 1. [Lab1: 신호 증폭](./L01_amplifier) 
-2. [Lab2: 빛 감지](./L01/light_sensor) 
-3. [Lab3: 피아노 소리 합성](./L03/timer_sound)
+2. [Lab2: 빛 감지](./L01_light_sensor) 
+3. [Lab3: 피아노 소리 합성](./L03_timer_sound)
 
 
 
