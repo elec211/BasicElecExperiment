@@ -31,7 +31,7 @@
 
 등가회로로 변환 하고자 하는 회로의 한 부분을 결정하고 출력단 (터미널 단)에서 Open Circuit 전압 및 Short Circuit 전류를 측정해본다.
 
-### Short Circuit 전류
+### Short Circuit 전류 (Isc)
 
 ![01_Isc_측정](./images/01x.jpg 'short circuit 전류 측정')
 
@@ -48,7 +48,7 @@
 
 
 
-### Open Circuit 전압
+### Open Circuit 전압 (Voc)
 
 터미널 단자의 open circuit 전압을 측정해보자.
 
@@ -69,7 +69,7 @@
 
 측정한 Open Circuit 전압 및 Short Circuit 전류 값으로부터 내부저항, 내부전원을 결정한 뒤 등가회로를 재구성하고 변환 전후의 동작특성을 비교해본다.
 
-앞서 측정한 Voc와 Isc를 바탕으로 내부 저항 값을 Vos/Isc를 통해 예측하고 이렇게 계산된 저항으로 회로를 변경한 뒤 동일한 터미널 단자 위치로 흐르는 전류 Isc를 측정해보자.
+앞서 측정한 Voc와 Isc를 바탕으로 내부 저항 값을 Voc/Isc를 통해 예측하고 이렇게 계산된 저항으로 회로를 변경한 뒤 동일한 터미널 단자 위치로 흐르는 전류 Isc를 측정해보자.
 
 ![03_Rth_교체후_측정](./images/03x.jpg '예측된 Rth로 교체한 뒤 전류 측정')
 
